@@ -1,2 +1,6 @@
 # CFAP152152A0-0154
-Arduino bring up code for an ePaper 1.54" display with 1bit black/white and 1bit red. Serial communication via 4-wire SPI.
+
+Sample code for CFAP152152A0-0154, a 1.54" ePaper, monochrome + red display. This product can be found here:
+https://www.crystalfontz.com/product/cfap152152A0-0154
+
+
